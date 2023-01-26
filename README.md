@@ -1,30 +1,32 @@
-![An image for the header of the Repository](./Images/Screenshot%202023-01-18%20at%205.14.07%20PM.png)
+![An image for the header of the Repository](./Images/7-4-challenge-image.png)
 
-# *San Francisco Real Estate Analyzer*
+# *ETF FinTech Analyzer*
 
-The purpose of the San Francisco Real Estate Analyzer is to compare the prices of different properties in the San Francisco area from 2010-2016.
+The purpose of the ETF FinTech Analyzer is to analyze the assets in an ETF portfolio using SQL, Python, and Pandas.
 
 ---
 
 ## **Required Technologies**
 
-This application requires `python 3.7.13` along with the following libraries, `pandas`, `hvplot`, and `pathlib`.
+This application requires `python 3.7.13` along with the following libraries, `pandas`, `hvplot` and `sqlalchemy`.
 
 ---
 
 ## Installation Guide
 
-You can install pandas and hvplot to your device by running the following prompts in your command line interface (CLI). Note: The pathlib library is standard and comes with the python program.
+You can install pandas, hvplot, and sqlalchemy to your device by running the following prompts in your command line interface (CLI). 
 
 ```pip install pandas```
 
-```conda install -c pyviz hvplot geoviews```
+```conda install -c pyviz hvplot```
+
+```pip install SQLAlchemy```
 
 ---
 
 ## Usage
 
-You can initiate the application in your CLI by activating your conda dev enviroment, navigating to the repository, and opening it up via Jupyter Lab. Once opened, you will be able to see the analysis on the San Francisco real estate market and see the interactive visualizations.
+You can initiate the application in your CLI by activating your conda dev enviroment, navigating to the repository, and opening it up via Jupyter Lab. Once opened, you will be able to see the analysis on the ETF Portfolio.
 
 ---
 
